@@ -23,6 +23,12 @@
   <img align="center" alt="C" height="50" width="60" src="https://github.com/brntsw/brntsw/blob/main/icons/c.svg">
   <img align="center" alt="Arduino" height="50" width="60" src="https://github.com/brntsw/brntsw/blob/main/icons/arduino.svg">
 </div>
+  
+<br /><br />
+
+### This is what I'm doing most of the time :)
+
+<div><img src="https://github.com/brntsw/brntsw/blob/main/background/background2.jpg"></div>
 
 <br /><br />
   
